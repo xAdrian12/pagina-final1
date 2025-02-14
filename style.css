@@ -1,0 +1,47 @@
+html{
+    font-family: "Playwrite AU VIC", serif;
+}
+
+body{
+    margin: 0;
+    background-color: pink;
+}
+#titulo{
+    color: beige;
+    padding: 0.5rem 0.5rem;
+    border-style: solid;
+    border-color: red;
+    border-radius: 50px;
+    border-width: 30px;
+}
+
+header h1{
+    font-size: 4rem;
+    text-align: center;
+}
+.contenedor{
+    display: flex;
+}
+.container{
+    display: flex;
+
+}
+.imga{
+    justify-content: center;
+    width: 100px;
+    height: 100px;
+}
+.final{
+    text-align: center;
+    color: beige;
+}
+
+.texto{
+    margin-left: 50px;
+    color: beige;
+}
+
+.img{
+    width: 450px;
+    height: 450px;
+}
